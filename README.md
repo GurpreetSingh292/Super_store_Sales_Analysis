@@ -18,3 +18,5 @@ Key aspects of the analysis included:
 - Sales by Ship Mode: Analyzed shipping methods to assess their impact on delivery times and customer satisfaction.
 
 Through this multifaceted approach, the project provided actionable insights that can help improve sales strategies, optimize operations, and drive overall business growth.
+
+![super sales](https://github.com/user-attachments/assets/0176c2ea-4158-4696-bfdf-8dcb948e3851)
